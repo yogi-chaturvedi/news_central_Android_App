@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="host">http://35.154.84.200:8080/news-central/v1</string>
+    <string name="category">/category</string>
+    <string name="news">/news</string>
 </resources>
